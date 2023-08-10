@@ -1,0 +1,13 @@
+body {
+  width: 100vw;
+
+  overflow-y: hidden;
+  position: relative;
+}
+
+.abs-img {
+  position: absolute;
+
+  top: -1rem;
+  right: -1rem;
+}
